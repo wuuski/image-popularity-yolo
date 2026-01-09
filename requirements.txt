@@ -8,3 +8,4 @@ ultralytics
 Pillow
 matplotlib
 seaborn
+lightgbm
