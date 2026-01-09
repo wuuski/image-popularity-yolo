@@ -6,7 +6,10 @@ __pycache__/
 # models
 *.joblib
 *.pkl
+!feature_cols.pkl
+
 *.pt
+!yolo11n.pt
 
 
 # data
