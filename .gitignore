@@ -1,0 +1,18 @@
+# environments
+venv/
+__pycache__/
+*.pyc
+
+# models
+*.joblib
+*.pkl
+*.pt
+*.txt
+
+# data
+*.csv
+train_imgs/
+
+# misc
+.DS_Store
+.streamlit/
