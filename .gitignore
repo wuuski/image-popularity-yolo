@@ -7,7 +7,7 @@ __pycache__/
 *.joblib
 *.pkl
 *.pt
-*.txt
+
 
 # data
 *.csv
@@ -15,4 +15,3 @@ train_imgs/
 
 # misc
 .DS_Store
-.streamlit/
