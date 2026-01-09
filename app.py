@@ -349,7 +349,7 @@ Certain object types had outsized influence. In some datasets, photos with vehic
 
 ##### 3. Colorfulness and Brightness
 
-One of the strongest non-position features was colorfulness. Images with balanced or mid-range colorfulness tended to be predicted as more popular. Extremely dark or washed-out images skewed downward. This helps explain why many of your newer test images received lower scores — the model has implicitly learned that darker, low-contrast nighttime photos correlate with low popularity.
+One of the strongest non-position features was colorfulness. Images with balanced or mid-range colorfulness tended to be predicted as more popular. Extremely dark or washed-out images skewed downward. 
 
 #### Conclusion
 
